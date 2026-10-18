@@ -1,0 +1,9 @@
+AI Use Disclosure
+Student: Thomas Jan Bustarga
+Course: CHEM 13 - Organic Chemistry (Lecture)
+Activity: Asynchronous Activity No. 2 - One Molecule, Four Representations
+
+AI Tool Used: Gemini
+Purpose of Use: Utilized as a learning support tool to verify molecular formulas, review IUPAC nomenclature guidelines, 
+check functional group bonding rules, and format portfolio layout guidelines. All chemical structures, Lewis representations, 
+and Ketcher bond-line drawings were independently verified for valence accuracy and connectivity.
